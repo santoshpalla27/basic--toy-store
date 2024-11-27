@@ -1,1 +1,1 @@
-# basic--toy-store
+# toy-store
