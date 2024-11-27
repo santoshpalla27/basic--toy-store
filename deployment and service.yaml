@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:latest
+        image: santoshpalla27/basic-toy-store:toy-store
         ports:
         - containerPort: 80
 ---
